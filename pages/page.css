@@ -1,6 +1,5 @@
 footer a {
-    position: fixed;
-    color: rgb(34, 34, 34);
+    color: royalblue;
     /* color: orange; */
     /* color: royalblue; */
     /* color: aqua; */
@@ -11,9 +10,9 @@ footer a {
     font-size: 1.2rem;
     /* font-weight: 700; */
     font-weight: 400;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
     /* font-weight: 600; */
-    /* font-weight: bold; */
+    font-weight: bold;
     font-style: italic;
     /* z-index: 1; */
 }
